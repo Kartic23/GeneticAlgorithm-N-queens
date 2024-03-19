@@ -1,6 +1,3 @@
-# Problema4_Genetic
-Problema 4 
-
-Código do Problema 4
+# N-queens resolvido com um algoritmo genético
 
 
